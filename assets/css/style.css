@@ -37,7 +37,7 @@ body {
 
 .main-container {
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   background: #000000;
   border-radius: 5px;
 }
@@ -153,3 +153,10 @@ a.nav-btn-2:hover {
   background: #920000;
 }
 
+.curve-box {
+  height: 100%;
+}
+
+.curve-box img {
+  height: 49px;
+}
